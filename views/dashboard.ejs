@@ -1,0 +1,25 @@
+<%- include('partials/header') %>
+
+<div class="page">
+  <div class="container-fluid">
+    <div class="row">
+      <%- include('partials/sidebar') %>
+      <div class="col">
+        <div class="container p-4">
+          <% if(message.length > 0) { %>
+            <%- include('partials/message') %>
+          <% } %>
+          <h2>Dashboard</h2>
+          <p>To use this tool, you require credits. You can top up your credits in the <a href='/profile'>Profile</a> section of the dashboard.</p>
+          <div class="widget">
+            <%- include('partials/tool') %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<%- include('partials/footer') %>

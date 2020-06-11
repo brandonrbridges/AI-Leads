@@ -1,0 +1,81 @@
+<%- include('partials/header') %>
+
+<div class="container-fluid">
+  <div class="row">
+    <%- include('partials/sidebar') %>
+    <div class="col">
+      <div class="container p-4">
+        <% if(message.length > 0) { %>
+          <%- include('partials/message') %>
+        <% } %>
+        <h2>Administration</h2>
+        <p>Welcome to the Administation panel.</p>
+
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Email</th>
+              <th scope="col">
+                Admin
+                <i class="fas fa-question-circle ml-2 text-muted" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Whether the user is an Administrator</span>"></i>
+              </th>
+              <th scope="col">
+                Credits
+                <i class="fas fa-question-circle ml-2 text-muted" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Set the user's Credits</span>"></i>
+              </th>
+              <th scope="col">Commands</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% users.forEach((result) => { %>
+              <tr>
+                <td><%= result.name.first + ' ' + result.name.last %></td>
+                <td><%= result.email %></td>
+                <td class="text-left">
+                  <% if(result.admin) { %>
+                    <i class="fas fa-check-circle text-success"></i> Yes
+                  <% } else { %>
+                    <i class="fas fa-times-circle text-danger"></i> No
+                  <% } %>
+                </td>
+                <td>
+                  <form action="/api/admin/update-credits?_id=<%= result._id %>" method="POST">
+                    <input type="number" class="form-control form-control-sm" name="credits" value="<%= result.credits %>" />
+                  </form>
+                </td>
+                <td>
+                  <% if(!result.admin) { %>
+                    <form action="/api/admin/create-admin?_id=<%= result._id %>" method="POST" class="d-inline">
+                      <button type="submit" class="btn btn-success" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Make An Admin</span>">
+                        <i class="far fa-key"></i>
+                      </button>
+                    </form>
+                  <% } else { %>
+                    <form action="/api/admin/revoke-admin?_id=<%= result._id %>" method="POST" class="d-inline">
+                      <button type="submit" class="btn btn-danger" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Revoke Admin</span>">
+                        <i class="far fa-user-slash"></i>
+                      </button>
+                    </form>
+                  <% } %>
+                  <a class="btn btn-info" href="/administrator/edit-user/<%= result._id %>" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Edit User</span>">
+                    <i class="far fa-pencil"></i>
+                  </a>
+                  <% if(result.email !== user.email) { %>
+                    <form action="/api/admin/delete-user?_id=<%= result._id %>" method="POST" class="d-inline">
+                      <button type="submit" class="btn btn-danger" data-toggle="tooltip" data-html="true" data-placement="top" title="<span class='small text-white'>Delete User</span>">
+                        <i class="far fa-trash-alt"></i>
+                      </button>
+                    </form>
+                  <% } %>
+                </td>
+              </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('partials/footer') %>

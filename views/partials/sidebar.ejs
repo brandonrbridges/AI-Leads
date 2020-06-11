@@ -1,0 +1,45 @@
+<div class="col-1 bg-light">
+  <div class="container p-4">
+    <ul class="nav nav-pills profile-nav">
+      <li class="nav-item" data-toggle="tooltip" data-html="true" data-placement="right" title="<span class='small text-white'>Dashboard</span>">
+        <a class="nav-link <% if(currentURL == '/dashboard') { %>active<% } %>" href="/dashboard">
+          <div class="nav-icon">
+            <i class="fal fa-chart-network"></i>
+          </div>
+        </a>
+      </li>
+      <li class="nav-item" data-toggle="tooltip" data-html="true" data-placement="right" title="<span class='small text-white'>Profile</span>">
+        <a class="nav-link <% if(currentURL == '/profile') { %>active<% } %>" href="/profile">
+          <div class="nav-icon">
+            <i class="fal fa-user-circle"></i>
+          </div>
+        </a>
+      </li>
+      <li class="nav-item" data-toggle="tooltip" data-html="true" data-placement="right" title="<span class='small text-white'>Settings</span>">
+        <a class="nav-link <% if(currentURL == '/profile/settings') { %>active<% } %>" href="/profile/settings">
+          <div class="nav-icon">
+            <i class="fal fa-cogs"></i>
+          </div>
+        </a>
+      </li>
+      <div class="dropdown-divider"></div>
+      <li class="nav-item" data-toggle="tooltip" data-html="true" data-placement="right" title="<span class='small text-white'>Support [Coming Soon]</span>">
+        <a class="nav-link <% if(currentURL == '/support') { %>active<% } %> disabled" href="/support">
+          <div class="nav-icon">
+            <i class="fal fa-life-ring"></i>
+          </div>
+        </a>
+      </li>
+      <% if(user.admin) { %>
+        <div class="dropdown-divider"></div>
+        <li class="nav-item" data-toggle="tooltip" data-html="true" data-placement="right" title="<span class='small text-white'>Administrator</span>">
+          <a class="nav-link <% if(currentURL == '/administrator') { %>active<% } %>" href="/administrator">
+            <div class="nav-icon">
+              <i class="fal fa-key"></i>
+            </div>
+          </a>
+        </li>
+      <% } %>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,78 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+  <link rel="icon" type="image/png" href="/images/logo.png" />
+
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="//cdn.visually.digital/font-awesome/css/all.min.css" />
+
+  <title>AI Leads</title>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+    <div class="container">
+      <div class="row w-100">
+        <div class="col">
+          <a class="navbar-brand" href="/">
+            <img src="<%- logoURL %>" width="50px" /> AI Leads
+          </a>
+        </div>
+        <div class="col-6 d-flex align-items-center">
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a class="nav-link <% if(currentURL == '/') { %>active<% } %>" href="/">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link <% if(currentURL == '/how-it-works') { %>active<% } %>" href="/how-it-works">How It Works</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link <% if(currentURL == '/pricing') { %>active<% } %>" href="/pricing">Pricing</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link <% if(currentURL == '/contact-us') { %>active<% } %>" href="/contact-us">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col d-flex align-items-center justify-content-end">
+          <ul class="navbar-nav">
+            <% if(user) { %>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <%= user.name.first + ' ' + user.name.last %>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dashboard"><i class="fas fa-chart-network mr-2"></i>Dashboard</a>
+                  <a class="dropdown-item" href="/profile"><i class="fas fa-user-circle mr-2"></i>Profile</a>
+                  <a class="dropdown-item" href="/profile/settings"><i class="fas fa-cog mr-2"></i>Settings</a>
+                  <% if(user.admin) { %>
+                    <a class="dropdown-item" href="/administrator"><i class="fas fa-key mr-2"></i>Administrator</a>
+                  <% } %>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/logout"><i class="fas fa-sign-out mr-2"></i>Logout</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="btn btn-primary ml-2" href="/dashboard">Dashboard</a>
+              </li>
+            <% } else { %>
+              <li class="nav-item">
+                <a class="btn btn-secondary mr-2" href="/login">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="btn btn-primary" href="/register">Register</a>
+              </li>
+            <% } %>
+          </ul>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </nav>

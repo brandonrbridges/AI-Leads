@@ -1,0 +1,405 @@
+{
+  "search_metadata":{
+     "id":"5e27017350374c084f0178c7",
+     "status":"Success",
+     "json_endpoint":"https://serpapi.com/searches/92467b3a78657127/5e27017350374c084f0178c7.json",
+     "created_at":"2020-01-21 13:49:39 UTC",
+     "processed_at":"2020-01-21 13:49:39 UTC",
+     "google_url":"https://www.google.co.uk/search?q=web+design&oq=web+design&uule=w+CAIQICIWRW5nbGFuZCxVbml0ZWQgS2luZ2RvbQ&hl=en&gl=uk&filter=0&sourceid=chrome&ie=UTF-8",
+     "raw_html_file":"https://serpapi.com/searches/92467b3a78657127/5e27017350374c084f0178c7.html",
+     "total_time_taken":3.53
+  },
+  "search_parameters":{
+     "engine":"google",
+     "q":"web design",
+     "location_requested":"England, United Kingdom",
+     "location_used":"England,United Kingdom",
+     "google_domain":"google.co.uk",
+     "hl":"en",
+     "gl":"uk",
+     "device":"desktop",
+     "filter":"0"
+  },
+  "search_information":{
+     "organic_results_state":"Results for exact spelling",
+     "total_results":12570000000,
+     "time_taken_displayed":0.83,
+     "query_displayed":"web design"
+  },
+  "ads":[
+     {
+        "position":1,
+        "block_position":"top",
+        "title":"£179 Professional Web Design | UK#1 Web Development‎",
+        "link":"/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAAGgJ5bQ&sig=AOD64_0YP-2aIadHlvWbwWd9SarxFApwEw&adurl=&q=",
+        "displayed_link":"www.websymmetry.co.uk/Web-Design/Chat-Now",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAAGgJ5bQ&sig=AOD64_0YP-2aIadHlvWbwWd9SarxFApwEw&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgQEAE&adurl=",
+        "description":"Team of Dedicated Web Developers for Bespoke Web Solutions. From Start ups To Enterprises.",
+        "sitelinks":[
+           {
+              "title":"Our Portfolio",
+              "link":"https://websymmetry.co.uk/portfolio.php"
+           },
+           {
+              "title":"Web Packages",
+              "link":"https://websymmetry.co.uk/custom-web-design/?src=google-ppc-UK-Web-search&network=%7Bnetwork%7D&place=%7Bplacement%7D&adid=%7Bcreative%7D&kw=%7Bkeyword%7D&matchtype=%7Bmatchtype%7D&adpos=%7Badposition%7D"
+           }
+        ]
+     },
+     {
+        "position":2,
+        "block_position":"top",
+        "title":"Looking For Web Design? | Lowest Price Guaranteed‎",
+        "link":"/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABADGgJ5bQ&sig=AOD64_3xOCV05OGgTi0Y5DftgYoCD268jQ&adurl=&q=",
+        "displayed_link":"www.bemunchieonline.co.uk/",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABADGgJ5bQ&sig=AOD64_3xOCV05OGgTi0Y5DftgYoCD268jQ&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgUEAE&adurl=",
+        "description":"100% Recommended Mobile Friendly Websites. Get In Touch Today & We Can Help Build..."
+     },
+     {
+        "position":3,
+        "block_position":"top",
+        "title":"Looking for Web Design? | 2019's Best Website Builders‎",
+        "link":"https://www.thebest10websitebuilders.co.uk/",
+        "displayed_link":"www.thebest10websitebuilders.co.uk/Website-Builder/Design",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAGGgJ5bQ&sig=AOD64_0ercomdsq5D70S2MMY_27-6iQh_Q&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgWEAE&adurl=",
+        "description":"Compare & Choose the Best Website Builders. Design Your Own Website Today!"
+     },
+     {
+        "position":4,
+        "block_position":"top",
+        "title":"£230 Complete Website Design | Top Website Design Firm‎",
+        "link":"/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAEGgJ5bQ&sig=AOD64_1iWFQ3UMvsETCAUa1mF2em80-LmA&adurl=&q=",
+        "displayed_link":"www.webprohub.co.uk/",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAEGgJ5bQ&sig=AOD64_1iWFQ3UMvsETCAUa1mF2em80-LmA&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgTEAE&adurl=",
+        "description":"Get Your website Initial Concepts in 48 Hours. 100% Satisfied Clients. Call Now. Get Free..."
+     },
+     {
+        "position":5,
+        "block_position":"bottom",
+        "title":"Website Design From £299 | [Recommended] 100% UK Design‎",
+        "link":"https://www.webfactory.co.uk/",
+        "displayed_link":"www.webfactory.co.uk/",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAFGgJ5bQ&sig=AOD64_3xcjN9BnBWCgyMqyJIMPAe58ItWw&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgPEAE&adurl=",
+        "description":"Easy and Affordable way to get your business online - Recommended across the UK! Special Offer Ends Soon! Websites From Only £299. Services: Bespoke Websites, Ecommerce Websites, Business Websites, Logo Design.",
+        "sitelinks":[
+           {
+              "title":"Ecommerce Website Design",
+              "link":"https://www.webfactory.co.uk/ecommerce-website-design?ref=gppcsouthwest"
+           },
+           {
+              "title":"Bespoke Website Design",
+              "link":"https://www.webfactory.co.uk/bespoke-website-design?ref=gppcsouthwest"
+           },
+           {
+              "title":"Website Portfolio",
+              "link":"https://www.webfactory.co.uk/portfolio?ref=gppcsouthwest"
+           }
+        ]
+     },
+     {
+        "position":6,
+        "block_position":"bottom",
+        "title":"£199 Custom Website Designs | Award Winning Web Designers‎",
+        "link":"https://www.ukwebdesigns.co.uk/best-website-offer/?src=google&medium=PPC-M&network=g&place=&adid=410046425686&kw=web%20designer&matchtype=p&adpos=none&landnew=new",
+        "displayed_link":"www.ukwebdesigns.co.uk/",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAHGgJ5bQ&sig=AOD64_2BtcPAAzKPbLVDy7J_GG1cgJTUYA&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgREAE&adurl=",
+        "description":"Free 5 Pages Business Website, Free Deployment, Free Domain & Hosting, Free Logo Design. Interactive Website Designs with Engaging Interfaces & Responsive Systems. 100% Money Back. 100% Custom Work. 100% Ownership. 30k+ Happy Customers."
+     },
+     {
+        "position":7,
+        "block_position":"bottom",
+        "title":"GoDaddy™ Website Builder | Get Award Winning 24/7 Support‎",
+        "link":"https://sso.godaddy.com/account/create?isc=wbftuk09&countryview=1&currencytype=GBP&app=onboarding&path=%2Flaunch%3Flid%3Dwsb-vnext-free-trial-8%26itc%3Ddlp_website_builder%26firstaccess%3Dtrue",
+        "displayed_link":"uk.godaddy.com/Website/Design",
+        "tracking_link":"https://www.google.co.uk/aclk?sa=l&ai=DChcSEwjI4-Dv6pTnAhXy_-MHHY_8AQAYABAJGgJ5bQ&sig=AOD64_2nT0sJSs7BoTFbWAfRu2fHdgzWBA&q=&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q0Qx6BAgSEAE&adurl=",
+        "description":"Design A Website In Minutes From 100's Of Awesome Templates. Start Your 30 Day Trial Now! Suitable For All Devices. 100's Of Templates. 30 Day Free Trial. Build In Under 1 Hour. Types: Personal Website Builder, Business Website Builder, Online Store Builder.",
+        "sitelinks":[
+           {
+              "title":"Plans & Pricing",
+              "link":"https://uk.godaddy.com/websites/website-builder/plans-and-pricing?isc=UKWSBSEM&currencytype=GBP"
+           },
+           {
+              "title":"Browse Our Templates",
+              "link":"https://uk.godaddy.com/website-templates?isc=UKWSBSEM&currencyType=GBP"
+           },
+           {
+              "title":"eCommerce Website Builder",
+              "link":"https://uk.godaddy.com/websites/online-store?isc=UKWSBSEM&currencytype=GBP"
+           }
+        ]
+     }
+  ],
+  "local_map":{
+     "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=52599085,-1776985,45326&tbm=lcl&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QtgN6BAgKEAQ",
+     "image":"data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+     "gps_coordinates":{
+        "latitude":52.599085,
+        "longitude":-1.776985,
+        "altitude":45326
+     }
+  },
+  "local_results":{
+     "more_locations_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=52599085,-1776985,45326&tbm=lcl&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QjGp6BAgKEDk",
+     "places":[
+        {
+           "position":1,
+           "title":"iCogs Web Design & Maintenance",
+           "place_id":"14503588952098405101",
+           "lsig":"AB86z5UTkXwozX1Tb3VKrMQqNpIW",
+           "place_id_search":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&lsig=AB86z5UTkXwozX1Tb3VKrMQqNpIW&ludocid=14503588952098405101&q=web+design&tbm=lcl&token=07129c733d55a3e7",
+           "rating":5,
+           "reviews":2,
+           "type":"Web Designer",
+           "address":"Open 24 hours",
+           "phone":"01788 247740",
+           "website":"https://www.icogs.co.uk/",
+           "gps_coordinates":{
+              "latitude":0,
+              "longitude":0
+           }
+        },
+        {
+           "position":2,
+           "title":"Web Design",
+           "place_id":"177495663405038423",
+           "lsig":"AB86z5UFcuDbFIyBDATmhOuU5SlE",
+           "place_id_search":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&lsig=AB86z5UFcuDbFIyBDATmhOuU5SlE&ludocid=177495663405038423&q=web+design&tbm=lcl&token=d30af9f82023b45d",
+           "rating":0,
+           "type":"Web Designer",
+           "hours":"0330 133 0030",
+           "address":"Union St",
+           "website":"#",
+           "gps_coordinates":{
+              "latitude":52.370359,
+              "longitude":-1.265831
+           }
+        },
+        {
+           "position":3,
+           "title":"Website Design Rugby",
+           "place_id":"13266827940418731055",
+           "lsig":"AB86z5WOtOCfa9AOsPXzj5gutJ9L",
+           "place_id_search":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&lsig=AB86z5WOtOCfa9AOsPXzj5gutJ9L&ludocid=13266827940418731055&q=web+design&tbm=lcl&token=d076935ae980e124",
+           "rating":4.8,
+           "reviews":4,
+           "type":"Web Designer",
+           "hours":"Open ⋅ Closes 5PM · 01788 815943",
+           "address":"55 Vernon Ave",
+           "website":"http://www.nickpricecreatives.com/",
+           "gps_coordinates":{
+              "latitude":52.3588975,
+              "longitude":-1.2342129
+           }
+        }
+     ]
+  },
+  "knowledge_graph":{
+
+  },
+  "inline_videos":[
+     {
+        "title":"A Beginner's Web Design Tutorial for 2018 - Part 1 of 2",
+        "link":"https://www.youtube.com/watch?v=alswD2tCc_Q",
+        "thumbnail":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb98iRc-V19VvFG9ml_L4IXmfgHcY4aSNh-vxkOPGjOxsVHf1LMbwh1auh",
+        "channel":"DesignCourse",
+        "duration":"17:01",
+        "platform":"YouTube",
+        "date":"2 Jul 2018"
+     },
+     {
+        "title":"10 Stunning Web Design Ideas You Must See in 2019",
+        "link":"https://www.youtube.com/watch?v=BReS7NxBoHs",
+        "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65KePpOJazUnhN17Wqef4oMI2SxAhzA58o3DWhZUdi2RBcZOxd1tKtK1aLQ",
+        "channel":"Red Stapler",
+        "duration":"4:02",
+        "platform":"YouTube",
+        "date":"22 Jul 2019"
+     },
+     {
+        "title":"How To Make A Website Using HTML And CSS | Website ...",
+        "link":"https://www.youtube.com/watch?v=-2LtZRi6Q0s",
+        "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJA3vef3fL3e-o7HN_X_ITt1q2Xzz2L9OthR-f3zLwYN5dfVBMBbTPSdK",
+        "channel":"Easy Tutorials",
+        "duration":"21:20",
+        "platform":"YouTube",
+        "date":"22 Jul 2019"
+     }
+  ],
+  "related_questions":[
+     {
+        "question":"What is meant by Web design?",
+        "snippet":"Web design is the process of creating websites. It encompasses several different aspects, including webpage layout, content production, and graphic design. While the terms web design and web development are often used interchangeably, web design is technically a subset of the broader category of web development.5 Feb 2013",
+        "title":"Web Design Definition - TechTerms",
+        "link":"https://techterms.com/definition/web_design",
+        "displayed_link":"techterms.com › definition › web_design"
+     },
+     {
+        "question":"What does a web designer do?",
+        "snippet":"A web designer is someone who is both creative and technically inclined, and uses both these attributes to build or redesign websites. The web designer has the ability to understand what is needed to make a website functional and easy to use, but at the same time make it aesthetically appealing to the user.",
+        "title":"What does a web designer do? ‐ CareerExplorer",
+        "link":"https://www.careerexplorer.com/careers/web-designer/",
+        "displayed_link":"www.careerexplorer.com › careers › web-designer"
+     },
+     {
+        "question":"How can I learn web design?",
+        "snippet":"Start a Website. The best way to start learning web design is to start doing it. ... Read Everything You Can. Start reading. ... Be An Effective Communicator. ... Subscribe to Tuts+ & Envato Elements. ... Think in HTML. ... Play with Code at Codeacademy. ... Learn to Understand CSS. ... Apply Your Design Skills to the Web.More items...•6 Sep 2019",
+        "title":"30 Tips to Learn Web Design in 30 Days | Design Shack",
+        "link":"https://designshack.net/articles/business-articles/learn-web-design-in-30-days/",
+        "displayed_link":"designshack.net › articles › business-articles › learn-web-design-in-30-d..."
+     },
+     {
+        "question":"How much does it cost to hire someone to build a website?",
+        "snippet":"$50 – $80 per hour. $250 – $500 minimum charge per project. This may include a minimum of 3 pages, and additional pages will be a slightly cheaper. Logo or branding design will be about $100 – $1500 depending on the extent of the branding design you need.23 Jul 2019",
+        "title":"Definitive Guide - How Much Should A Website Cost You? (Sept 19)",
+        "link":"https://www.websitebuilderexpert.com/building-websites/how-much-should-a-website-cost/",
+        "displayed_link":"www.websitebuilderexpert.com › building-websites › how-much-should..."
+     }
+  ],
+  "organic_results":[
+     {
+        "position":1,
+        "title":"Web design - Wikipedia",
+        "link":"https://en.wikipedia.org/wiki/Web_design",
+        "displayed_link":"en.wikipedia.org › wiki › Web_design",
+        "snippet":"The term web design is normally used to describe the design process relating to the front-end (client side) design of a website including writing markup. Web design partially overlaps web engineering in the broader scope of web development.",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:E8uGPohAbbsJ:https://en.wikipedia.org/wiki/Web_design+&cd=4&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://en.wikipedia.org/wiki/Web_design+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzADegQIAhAJ"
+     },
+     {
+        "position":2,
+        "title":"Web Design London | Website Design | Web Design Agency ...",
+        "link":"https://www.cbwebsitedesign.co.uk/",
+        "displayed_link":"www.cbwebsitedesign.co.uk",
+        "snippet":"An award-winning London web design agency, specialising in interactive, engaging & bespoke website design. WordPress CMS & SEO optimised website ...",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:VdxA9-kZvfcJ:https://www.cbwebsitedesign.co.uk/+&cd=5&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.cbwebsitedesign.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAEegQICBAH"
+     },
+     {
+        "position":3,
+        "title":"Web Design London | WordPress Website Design Agency",
+        "link":"https://www.thewebkitchen.co.uk/",
+        "displayed_link":"www.thewebkitchen.co.uk",
+        "snippet":"Web Design London Agency | TWK, a full service Website Design and Development company based in Marylebone London. Professional Web Design ...",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:PzqnIxY5esMJ:https://www.thewebkitchen.co.uk/+&cd=6&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.thewebkitchen.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAFegQIBxAH"
+     },
+     {
+        "position":4,
+        "title":"Web Design London - Website Design & Web Development in ...",
+        "link":"https://www.jbidigital.co.uk/",
+        "displayed_link":"www.jbidigital.co.uk",
+        "snippet":"Fresh, creative digital services from an innovative London web design agency. We develop, promote, consult and design for ambitious online businesses.",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:YwmRGTDWJ6cJ:https://www.jbidigital.co.uk/+&cd=7&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.jbidigital.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAGegQIBhAH"
+     },
+     {
+        "position":5,
+        "title":"Web Design London | Website Design | Web Agency London",
+        "link":"https://www.netdreams.co.uk/",
+        "displayed_link":"www.netdreams.co.uk",
+        "snippet":"Stunning, effective and results-driven web design and app development from London's top web design agency Internet Dreams Studio.",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:r_XgK1y34q8J:https://www.netdreams.co.uk/+&cd=16&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.netdreams.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAPegQIARAH"
+     },
+     {
+        "position":6,
+        "title":"Web Development & Web Design Company | Best Digital ...",
+        "link":"https://www.webdesignchoice.co.uk/",
+        "displayed_link":"www.webdesignchoice.co.uk",
+        "snippet":"Web Choice UK is an award-winning web development & digital marketing company - Giving outstanding results through branding, web design, web ...",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:VcdIumU45UQJ:https://www.webdesignchoice.co.uk/+&cd=17&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.webdesignchoice.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAQegQIBBAH"
+     },
+     {
+        "position":7,
+        "title":"Web Design - Website Design - Bespoke Website Design - UK ...",
+        "link":"https://www.smarterwebcompany.co.uk/",
+        "displayed_link":"www.smarterwebcompany.co.uk",
+        "snippet":"Affordable bespoke web design in the UK. Our service is provided by a team of talented, experienced and professional web designers. We do not outsource.",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:xchGdPqg4wEJ:https://www.smarterwebcompany.co.uk/+&cd=21&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.smarterwebcompany.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAUegQIAxAH"
+     },
+     {
+        "position":8,
+        "title":"£295 Website Design - UK Web Design Company ...",
+        "link":"https://www.webcreationuk.co.uk/",
+        "displayed_link":"www.webcreationuk.co.uk",
+        "snippet":"The UK's No. 1 website design company & web designers. Thousands of customers use our web design services. We provide small to medium sized businesses ...",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:u8-ettCpzJ0J:https://www.webcreationuk.co.uk/+&cd=22&hl=en&ct=clnk&gl=uk",
+        "related_pages_link":"https://www.google.co.uk/search?gl=uk&hl=en&q=related:https://www.webcreationuk.co.uk/+web+design&tbo=1&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78QHzAVegQICRAH"
+     },
+     {
+        "position":9,
+        "title":"Web Design Inspiration | The best web designs and trends",
+        "link":"https://www.webdesign-inspiration.com/",
+        "displayed_link":"www.webdesign-inspiration.com",
+        "snippet":"Visit the #1 Inspiration Gallery. Everyday, we help Webdesigners, Agencies and Entrepreneurs to be inspired for their next web design project.",
+        "cached_page_link":"https://webcache.googleusercontent.com/search?q=cache:iDLptj0jNfgJ:https://www.webdesign-inspiration.com/+&cd=23&hl=en&ct=clnk&gl=uk"
+     }
+  ],
+  "related_searches":[
+     {
+        "query":"web design definition",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+definition&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoAHoECA4QAQ"
+     },
+     {
+        "query":"best web design companies london",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=best+web+design+companies+london&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoAXoECA4QAg"
+     },
+     {
+        "query":"web design tutorial",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+tutorial&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoAnoECA4QAw"
+     },
+     {
+        "query":"web design agency",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+agency&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoA3oECA4QBA"
+     },
+     {
+        "query":"web design course",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+course&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoBHoECA4QBQ"
+     },
+     {
+        "query":"web design software",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+software&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoBXoECA4QBg"
+     },
+     {
+        "query":"web design company",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+company&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoBnoECA4QBw"
+     },
+     {
+        "query":"web design courses",
+        "link":"https://www.google.co.uk/search?gl=uk&hl=en&q=web+design+courses&sa=X&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q1QIoB3oECA4QCA"
+     }
+  ],
+  "pagination":{
+     "current":1,
+     "next":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=10&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8NMDegQIDRBN",
+     "other_pages":{
+        "2":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=10&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRA7",
+        "3":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=20&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRA9",
+        "4":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=30&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRA_",
+        "5":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=40&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBB",
+        "6":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=50&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBD",
+        "7":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=60&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBF",
+        "8":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=70&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBH",
+        "9":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=80&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBJ",
+        "10":"https://www.google.co.uk/search?q=web+design&gl=uk&hl=en&ei=dAEnXurbJcTGsAWe9o_4Cw&start=90&sa=N&filter=0&ved=2ahUKEwjq5dbv6pTnAhVEI6wKHR77A78Q8tMDegQIDRBL"
+     }
+  },
+  "serpapi_pagination":{
+     "current":1,
+     "next_link":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=10&token=6aa0f8730113d757",
+     "next":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=10&token=6aa0f8730113d757",
+     "other_pages":{
+        "2":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=10&token=6aa0f8730113d757",
+        "3":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=20&token=8debdf99efdf5d6f",
+        "4":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=30&token=c1a2b24fc801c089",
+        "5":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=40&token=eaa706fa2d4f0f75",
+        "6":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=50&token=17323e354aad3b3f",
+        "7":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=60&token=c003e1af38735ec2",
+        "8":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=70&token=4a31a3430405be04",
+        "9":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=80&token=a76bcd1bb79d8d2c",
+        "10":"https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=uk&google_domain=google.co.uk&hl=en&location_requested=England%2C+United+Kingdom&q=web+design&start=90&token=ab61ed621f3d6afa"
+     }
+  }
+}

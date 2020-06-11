@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+$font: 'Rubik', sans-serif;
+$font-color: #384578;
+
+$cyan: #2ABDFC;
+$danger: hsl(0, 100%, 66%);
+$light: #E6ECFE;
+$primary: #615DE7;
+$success: #1dd1a1;
+$white: #FFF;
+
+// $shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px 0px;
+$shadow: 0 14px 16px rgba($primary, .12), 0 10px 14px rgba($primary, .04);
+$shadow-hover: 0 7px 14px rgba(50, 50, 93, .1), 0 3px 6px rgba(0, 0, 0, .05);
+
+$border-radius: .3rem;
+$box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+$transition-duration: .125s;

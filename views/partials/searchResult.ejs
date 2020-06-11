@@ -1,0 +1,16 @@
+<div class="card result">
+  <div class="card-body">
+    <h5 class="card-title"><i class="far fa-search bg-primary mr-2 p-2 rounded text-white"></i>{{ result.title }}</h5>
+    <p class="card-text">
+      <a v-bind:href="result.tracking_link" class="card-link" target="_blank">
+        <i class="far fa-external-link mr-2 text-primary"></i>
+        {{ result.displayed_link }}
+      </a>
+    </p>
+    <p class="card-text">{{ result.description }}</p>
+    <a v-for="sitelink in result.sitelinks" :key="sitelink.title" v-bind:href="sitelink.link" class="card-link" target="_blank">
+      <i class="far fa-external-link mr-2 text-primary"></i>
+      {{ sitelink.title }}
+    </a>
+  </div>
+</div>

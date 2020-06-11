@@ -1,0 +1,56 @@
+</body>
+<footer>
+  <div class="container-fluid py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md">
+          <img src="<%= logoURL %>" width="50" class="mb-5" />
+          <p class="small">Generate more leads by using Artificial Intelligence to see which companies are advertising under your target industry.</p>
+        </div>
+        <div class="col-md">
+          <h6>Navigation</h6>
+          <ul class="nav footer-nav">
+            <li class="nav-item">
+              <a class="nav-link <% if(currentURL == '/') { %>active<% } %>" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link <% if(currentURL == '/about') { %>active<% } %>" href="/about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link <% if(currentURL == '/how-it-works') { %>active<% } %>" href="/how-it-works">How It Works</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link <% if(currentURL == '/pricing') { %>active<% } %>" href="/pricing">Pricing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link <% if(currentURL == '/contact-us') { %>active<% } %>" href="/contact-us">Contact Us</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md">
+          <h6>Widget Title</h6>
+        </div>
+        <div class="col-md">
+          <h6>Widget Title</h6>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="container border-top py-2">
+      <p class="mb-0 small text-white">AI Leads &copy; 2020. All Rights Reserved.</p>
+    </div>
+  </div>
+
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+
+  <script>
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+
+    $('.collapse').collapse()
+  </script>
+</footer>
